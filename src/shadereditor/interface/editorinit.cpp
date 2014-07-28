@@ -16,21 +16,24 @@ float GetEditorTime()
 	return g_pVGuiSystem->GetCurrentTime();
 }
 
-#include <windows.h>
 #include "EditorInit.h"
 #include "editorcommon.h"
 
-#include <tlhelp32.h>
-#include <windows.h>
 #include <stdio.h>
-#include <tchar.h>
 #include <direct.h>
+
+#ifndef NO_COMPILING
+#include <windows.h>
+#include <tlhelp32.h>
+#include <tchar.h>
+#endif
 
 #include "view_shared.h"
 #include "materialsystem/imesh.h"
 
 void ForceTerminateCompilers()
 {
+#ifndef NO_COMPILING
 	PROCESSENTRY32 entry;
 	entry.dwSize = sizeof(PROCESSENTRY32);
 
@@ -52,6 +55,7 @@ void ForceTerminateCompilers()
 	}
 
 	CloseHandle(snapshot);
+#endif
 }
 
 

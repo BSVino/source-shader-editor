@@ -2,10 +2,13 @@
 #include "cbase.h"
 #include "editorCommon.h"
 
-#include <windows.h>
 #include <stdio.h>
-#include <tchar.h>
 #include <direct.h>
+
+#ifndef NO_COMPILING
+#include <windows.h>
+#include <tchar.h>
+#endif
 
 #define COMPILE_FRENZY 0
 #if COMPILE_FRENZY
@@ -1005,6 +1008,7 @@ HANDLE g_hChildStd_OUT_Wr = NULL;
 
 bool CCompileThread::StartCompiler()
 {
+#ifndef NO_COMPILING
 	ForceTerminateCompilers();
 
 	char old_wd[MAX_PATH];
@@ -1135,4 +1139,7 @@ bool CCompileThread::StartCompiler()
 
 	//chdir( old_wd );
 	return true;
+#else
+	return false;
+#endif
 }

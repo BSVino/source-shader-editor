@@ -251,6 +251,12 @@ void CEditorRoot::PageChanged()
 	m_pMBut_Shader->GetMenu()->SetItemEnabled( 5, bIsShader );
 	m_pMBut_Shader->GetMenu()->SetItemEnabled( 6, bIsShader );
 
+#ifdef NO_COMPILING
+	m_pMBut_Shader->GetMenu()->SetItemEnabled( 2, false );
+	m_pMBut_Shader->GetMenu()->SetItemEnabled( 3, false );
+	m_pMBut_Shader->GetMenu()->SetItemEnabled( 4, false );
+#endif
+
 	const bool bIsPPEffect = pView->GetFlowgraphType() == CNodeView::FLOWGRAPH_POSTPROC;
 	m_pMBut_PostProc->GetMenu()->SetItemEnabled( 0, bIsPPEffect );
 

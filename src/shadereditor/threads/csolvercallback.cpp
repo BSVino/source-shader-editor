@@ -2,8 +2,6 @@
 #include "cbase.h"
 #include "editorCommon.h"
 
-//#include <Windows.h>
-
 CUtlVector< CAutoSolverCallback* >CAutoSolverCallback::m_shClients;
 
 CAutoSolverCallback::CAutoSolverCallback()
