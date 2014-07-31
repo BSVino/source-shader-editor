@@ -10,8 +10,8 @@
 #include "vgui/ISurface.h"
 #include "KeyValues.h"
 
-#include "vgui_controls/PropertyPage.h"
-#include "vgui_controls/Controls.h"
+#include "vgui_controls/propertypage.h"
+#include "vgui_controls/controls.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include "tier0/memdbgon.h"

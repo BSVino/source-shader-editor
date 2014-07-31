@@ -10,10 +10,10 @@
 #include "vgui/ISurface.h"
 #include <KeyValues.h>
 
-#include <vgui_controls/Controls.h>
-#include <vgui_controls/Menu.h>
-#include <vgui_controls/MenuItem.h>
-#include <vgui_controls/TextImage.h>
+#include <vgui_controls/controls.h>
+#include <vgui_controls/menu.h>
+#include <vgui_controls/menuitem.h>
+#include <vgui_controls/textimage.h>
 
 #include "vgui_editor_platform.h"
 

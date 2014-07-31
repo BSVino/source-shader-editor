@@ -6,9 +6,9 @@
 //===========================================================================//
 
 #include <vgui_controls/perforcefilelist.h>
-#include <vgui_controls/ListPanel.h>
-#include <vgui_controls/Label.h>
-#include <vgui_controls/ImageList.h>
+#include <vgui_controls/listpanel.h>
+#include <vgui_controls/label.h>
+#include <vgui_controls/imagelist.h>
 #include "tier1/keyvalues.h"
 #include <vgui/ISurface.h>
 #include "filesystem.h"

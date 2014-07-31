@@ -14,7 +14,7 @@
 #include "materialsystem/imaterialsystem.h"
 
 #include "editorcommon.h"
-#include "vBaseNode.h"
+#include "vbasenode.h"
 
 HNODE CBaseNode::m_iUniqueIndexCount = HNODE(0);
 

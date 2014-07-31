@@ -10,7 +10,7 @@
 #pragma once
 #endif
 
-#include "vgui_controls/Frame.h"
+#include "vgui_controls/frame.h"
 #include "vgui/KeyCode.h"
 
 namespace vgui

@@ -21,13 +21,13 @@
 #endif
 #include "vgui/IClientPanel.h"
 #include "vgui/IScheme.h"
-#include "vgui_controls/Controls.h"
-#include "vgui_controls/PHandle.h"
+#include "vgui_controls/controls.h"
+#include "vgui_controls/phandle.h"
 #include "vgui_controls/PanelAnimationVar.h"
 #include "Color.h"
 #include "vstdlib/IKeyValuesSystem.h"
 #include "tier1/utlsymbol.h"
-#include "vgui_controls/BuildGroup.h"
+#include "vgui_controls/buildgroup.h"
 
 // undefine windows function macros that overlap 
 #ifdef PostMessage

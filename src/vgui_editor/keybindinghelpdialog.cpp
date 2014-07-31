@@ -4,7 +4,7 @@
 //
 //=============================================================================
 #include "vgui_controls/KeyBindingHelpDialog.h"
-#include "vgui_controls/ListPanel.h"
+#include "vgui_controls/listpanel.h"
 #include "vgui/ISurface.h"
 #include "vgui/IVGui.h"
 #include "vgui/ILocalize.h"
@@ -12,7 +12,7 @@
 #include "vgui/ISystem.h"
 #include "KeyValues.h"
 #include "vgui/Cursor.h"
-#include "tier1/UtlDict.h"
+#include "tier1/utldict.h"
 #include "vgui_controls/KeyBoardEditorDialog.h"
 
 using namespace vgui;

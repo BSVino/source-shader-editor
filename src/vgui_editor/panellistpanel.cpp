@@ -10,12 +10,12 @@
 #include "vgui/IScheme.h"
 #include "vgui/ISurface.h"
 
-#include "vgui_controls/EditablePanel.h"
-#include "vgui_controls/ScrollBar.h"
-#include "vgui_controls/Label.h"
-#include "vgui_controls/Button.h"
-#include "vgui_controls/Controls.h"
-#include "vgui_controls/PanelListPanel.h"
+#include "vgui_controls/editablepanel.h"
+#include "vgui_controls/scrollbar.h"
+#include "vgui_controls/label.h"
+#include "vgui_controls/button.h"
+#include "vgui_controls/controls.h"
+#include "vgui_controls/panellistpanel.h"
 
 #include "KeyValues.h"
 

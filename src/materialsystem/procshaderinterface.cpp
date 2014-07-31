@@ -1,7 +1,7 @@
 
 #include "procshader/shaderincludes.h"
 
-#include "ProcShaderInterface.h"
+#include "procshaderinterface.h"
 
 #include "tier1.h"
 

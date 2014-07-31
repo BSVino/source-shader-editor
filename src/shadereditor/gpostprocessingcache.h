@@ -2,7 +2,7 @@
 #define POST_PROCESSING_CACHE_H
 
 #include "cbase.h"
-#include "editorCommon.h"
+#include "editorcommon.h"
 
 // used to actually call the func
 struct EditorRenderViewCommand_Data

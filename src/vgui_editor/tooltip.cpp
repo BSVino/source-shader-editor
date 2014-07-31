@@ -16,9 +16,9 @@
 #include <vgui/IVGui.h>
 #include <vgui/IPanel.h>
 
-#include <vgui_controls/Tooltip.h>
-#include <vgui_controls/TextEntry.h>
-#include <vgui_controls/Controls.h>
+#include <vgui_controls/tooltip.h>
+#include <vgui_controls/textentry.h>
+#include <vgui_controls/controls.h>
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include <tier0/memdbgon.h>

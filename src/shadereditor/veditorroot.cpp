@@ -19,7 +19,7 @@
 #include "materialsystem/IMaterialVar.h"
 #include "materialsystem/imaterialsystem.h"
 
-#include "editorCommon.h"
+#include "editorcommon.h"
 #include "vEditorRoot.h"
 #include "vNodeView.h"
 

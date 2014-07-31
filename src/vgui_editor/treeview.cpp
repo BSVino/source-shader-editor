@@ -15,19 +15,19 @@
 #include <vgui/IPanel.h>
 #include <vgui/ISurface.h>
 #include <vgui/ISystem.h>
-#include <vgui/IVgui.h>
+#include <vgui/IVGui.h>
 #include <vgui/KeyCode.h>
 #include <KeyValues.h>
 #include <vgui/MouseCode.h>
 
-#include <vgui_controls/TreeView.h>
-#include <vgui_controls/ScrollBar.h>
-#include <vgui_controls/TextEntry.h>
-#include <vgui_controls/Label.h>
-#include <vgui_controls/Button.h>
-#include <vgui_controls/TextImage.h>
-#include <vgui_controls/ImageList.h>
-#include <vgui_controls/ImagePanel.h>
+#include <vgui_controls/treeview.h>
+#include <vgui_controls/scrollbar.h>
+#include <vgui_controls/textentry.h>
+#include <vgui_controls/label.h>
+#include <vgui_controls/button.h>
+#include <vgui_controls/textimage.h>
+#include <vgui_controls/imagelist.h>
+#include <vgui_controls/imagepanel.h>
 
 #include "tier1/UtlString.h"
 

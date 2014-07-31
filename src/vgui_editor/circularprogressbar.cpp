@@ -9,7 +9,7 @@
 #include <math.h>
 #include <stdio.h>
 
-#include <vgui_controls/CircularProgressBar.h>
+#include <vgui_controls/circularprogressbar.h>
 
 #include <vgui/ILocalize.h>
 #include <vgui/IScheme.h>

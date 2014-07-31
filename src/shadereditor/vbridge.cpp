@@ -1,6 +1,6 @@
 
 #include "cbase.h"
-#include "editorCommon.h"
+#include "editorcommon.h"
 
 #define BRIDGE_DRAW_SEGMENTS_MIN 8
 #define BRIDGE_DRAW_SEGMENTS_MAX 64

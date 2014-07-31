@@ -1,6 +1,6 @@
 
 #include "cbase.h"
-#include "vgui/isystem.h"
+#include "vgui/ISystem.h"
 
 void EngineCopy( const char *a, const char *b )
 {
@@ -16,7 +16,7 @@ float GetEditorTime()
 	return g_pVGuiSystem->GetCurrentTime();
 }
 
-#include "EditorInit.h"
+#include "editorinit.h"
 #include "editorcommon.h"
 
 #include <stdio.h>

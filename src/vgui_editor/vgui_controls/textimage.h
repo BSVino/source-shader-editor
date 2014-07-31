@@ -14,7 +14,7 @@
 
 #include <vgui/VGUI.h>
 #include <vgui/ILocalize.h>
-#include <vgui_controls/Image.h>
+#include <vgui_controls/image.h>
 
 #include <utlvector.h>
 

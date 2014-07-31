@@ -15,9 +15,9 @@
 
 #include <vgui/ILocalize.h>
 
-#include "editorCommon.h"
+#include "editorcommon.h"
 #include "vJack.h"
-#include "vBaseNode.h"
+#include "vbasenode.h"
 
 
 

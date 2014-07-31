@@ -8,8 +8,8 @@
 #include <math.h>
 #include <stdio.h>
 
-#include <vgui_controls/AnalogBar.h>
-#include <vgui_controls/Controls.h>
+#include <vgui_controls/analogbar.h>
+#include <vgui_controls/controls.h>
 
 #include <vgui/ILocalize.h>
 #include <vgui/IScheme.h>

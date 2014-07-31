@@ -13,8 +13,8 @@
 #endif
 
 #include "vgui/VGUI.h"
-#include "vgui_controls/EditablePanel.h"
-#include "vgui_controls/PHandle.h"
+#include "vgui_controls/editablepanel.h"
+#include "vgui_controls/phandle.h"
 #include "utlvector.h"
 
 namespace vgui

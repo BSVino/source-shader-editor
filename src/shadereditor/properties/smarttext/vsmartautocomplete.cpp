@@ -2,7 +2,7 @@
 #include "cbase.h"
 
 #include "vSmartObject.h"
-#include "vSmartObjectList.h"
+#include "vsmartobjectlist.h"
 #include "vSmartAutocomplete.h"
 #include "vSmartTooltip.h"
 #include "cRegex.h"

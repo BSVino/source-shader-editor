@@ -15,15 +15,15 @@
 #include <KeyValues.h>
 #include <vgui/MouseCode.h>
 
-#include <vgui_controls/SectionedListPanel.h>
-#include <vgui_controls/Button.h>
-#include <vgui_controls/Controls.h>
-#include <vgui_controls/Label.h>
-#include <vgui_controls/ScrollBar.h>
-#include <vgui_controls/TextImage.h>
-#include <vgui_controls/ImageList.h>
+#include <vgui_controls/sectionedlistpanel.h>
+#include <vgui_controls/button.h>
+#include <vgui_controls/controls.h>
+#include <vgui_controls/label.h>
+#include <vgui_controls/scrollbar.h>
+#include <vgui_controls/textimage.h>
+#include <vgui_controls/imagelist.h>
 
-#include "UtlVector.h"
+#include "utlvector.h"
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include <tier0/memdbgon.h>

@@ -13,10 +13,10 @@
 #include <KeyValues.h>
 #include <vgui/IVGui.h>
 
-#include <vgui_controls/Controls.h>
-#include <vgui_controls/MenuButton.h>
-#include <vgui_controls/Menu.h>
-#include <vgui_controls/TextImage.h>
+#include <vgui_controls/controls.h>
+#include <vgui_controls/menubutton.h>
+#include <vgui_controls/menu.h>
+#include <vgui_controls/textimage.h>
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include <tier0/memdbgon.h>

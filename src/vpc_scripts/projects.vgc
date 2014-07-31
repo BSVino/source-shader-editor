@@ -10,17 +10,17 @@
 
 $Project "shadereditor_dll"
 {
-	"shadereditor\shadereditor.vpc" [$WIN32]
+	"shadereditor\shadereditor.vpc"
 }
 
 $Project "editor_shader"
 {
-	"materialsystem\procshader\procshader.vpc" [$WIN32]
+	"materialsystem\procshader\procshader.vpc"
 }
 
 $Project "vgui_controls_editor"
 {
-	"vgui_editor\vgui_controls_editor.vpc" [$WIN32]
+	"vgui_editor\vgui_controls_editor.vpc"
 }
 
 $Project "captioncompiler"

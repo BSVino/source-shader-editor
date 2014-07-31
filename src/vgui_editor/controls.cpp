@@ -5,7 +5,7 @@
 // $NoKeywords: $
 //===========================================================================//
 
-#include <vgui_controls/Controls.h>
+#include <vgui_controls/controls.h>
 #include <locale.h>
 
 // memdbgon must be the last include file in a .cpp file!!!

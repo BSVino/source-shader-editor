@@ -52,9 +52,9 @@ CGlobalVarsBase *gpGlobals = &dummyvars;
 
 
 
-#include "EditorInit.h"
+#include "editorinit.h"
 #include "editorcommon.h"
-#include "IVProcShader.h"
+#include "ivprocshader.h"
 
 CSysModule *ProcShaderModule = NULL;
 IVProcShader *gProcShaderCTRL = NULL;

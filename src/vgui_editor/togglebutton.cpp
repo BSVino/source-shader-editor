@@ -7,7 +7,7 @@
 
 #include <vgui/KeyCode.h>
 
-#include <vgui_controls/ToggleButton.h>
+#include <vgui_controls/togglebutton.h>
 
 #include <KeyValues.h>
 

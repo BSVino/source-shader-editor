@@ -18,10 +18,10 @@
 #include "filesystem.h"
 
 #include "vgui_controls/HTML.h"
-#include "vgui_controls/Controls.h"
-#include "vgui_controls/Label.h"
-#include "vgui_controls/Image.h"
-#include "vgui_controls/ScrollBar.h"
+#include "vgui_controls/controls.h"
+#include "vgui_controls/label.h"
+#include "vgui_controls/image.h"
+#include "vgui_controls/scrollbar.h"
 #include "KeyValues.h"
 
 #include <stdio.h>

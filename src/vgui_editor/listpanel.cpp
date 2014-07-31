@@ -21,16 +21,16 @@
 #include <KeyValues.h>
 #include <vgui/MouseCode.h>
 
-#include <vgui_controls/Button.h>
-#include <vgui_controls/Controls.h>
-#include <vgui_controls/ImageList.h>
-#include <vgui_controls/ImagePanel.h>
-#include <vgui_controls/Label.h>
-#include <vgui_controls/ListPanel.h>
-#include <vgui_controls/ScrollBar.h>
-#include <vgui_controls/TextImage.h>
-#include <vgui_controls/Menu.h>
-#include <vgui_controls/Tooltip.h>
+#include <vgui_controls/button.h>
+#include <vgui_controls/controls.h>
+#include <vgui_controls/imagelist.h>
+#include <vgui_controls/imagepanel.h>
+#include <vgui_controls/label.h>
+#include <vgui_controls/listpanel.h>
+#include <vgui_controls/scrollbar.h>
+#include <vgui_controls/textimage.h>
+#include <vgui_controls/menu.h>
+#include <vgui_controls/tooltip.h>
 
 #include "vgui_editor_platform.h"
 

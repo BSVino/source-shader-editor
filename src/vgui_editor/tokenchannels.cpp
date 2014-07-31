@@ -1,5 +1,5 @@
 
-#include "vgui_controls/Utilities.h"
+#include "vgui_controls/utilities.h"
 #include "vgui_controls/tokenchannels.h"
 
 #include "vgui_editor_platform.h"

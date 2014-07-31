@@ -17,9 +17,9 @@
 #include <vgui/ISurface.h>
 #include <vgui/ILocalize.h>
 
-#include <vgui_controls/Slider.h>
-#include <vgui_controls/Controls.h>
-#include <vgui_controls/TextImage.h>
+#include <vgui_controls/slider.h>
+#include <vgui_controls/controls.h>
+#include <vgui_controls/textimage.h>
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include <tier0/memdbgon.h>

@@ -1,6 +1,6 @@
 
 #include "cbase.h"
-#include "editorCommon.h"
+#include "editorcommon.h"
 
 #include <stdio.h>
 #include <direct.h>

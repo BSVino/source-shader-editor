@@ -17,10 +17,10 @@
 #include <vgui/IScheme.h>
 #include <KeyValues.h>
 
-#include <vgui_controls/Label.h>
-#include <vgui_controls/Image.h>
-#include <vgui_controls/TextImage.h>
-#include <vgui_controls/Controls.h>
+#include <vgui_controls/label.h>
+#include <vgui_controls/image.h>
+#include <vgui_controls/textimage.h>
+#include <vgui_controls/controls.h>
 
 #include "vgui_editor_platform.h"
 

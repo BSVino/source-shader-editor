@@ -3,7 +3,7 @@
 #ifndef SHADER_EDITOR_DLL_2006
 #include "tier1/callqueue.h"
 #endif
-#include "editorCommon.h"
+#include "editorcommon.h"
 
 
 static CPostProcessingCache gs_ppcache;

@@ -3,7 +3,7 @@
 
 #include <direct.h>
 
-#include "editorCommon.h"
+#include "editorcommon.h"
 
 using namespace std;
 

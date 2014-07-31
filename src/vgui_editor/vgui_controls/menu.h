@@ -12,8 +12,8 @@
 #pragma once
 #endif
 
-#include <vgui_controls/Panel.h>
-#include <vgui_controls/Label.h>
+#include <vgui_controls/panel.h>
+#include <vgui_controls/label.h>
 #include <utllinkedlist.h>
 #include <utlvector.h>
 

@@ -6,7 +6,7 @@
 #include <vgui/ISurface.h>
 #include "ienginevgui.h"
 
-#include "vgui_controls/Controls.h"
+#include "vgui_controls/controls.h"
 #include "editorcommon.h"
 
 

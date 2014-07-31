@@ -9,7 +9,7 @@
 #include <assert.h>
 #include <ctype.h>
 #include <stdio.h>
-#include <UtlVector.h>
+#include <utlvector.h>
 
 #include <vgui/Cursor.h>
 #include <vgui/IInput.h>
@@ -21,12 +21,12 @@
 #include <KeyValues.h>
 #include <vgui/MouseCode.h>
 
-#include <vgui_controls/Menu.h>
-#include <vgui_controls/ScrollBar.h>
-#include <vgui_controls/TextEntry.h>
-#include <vgui_controls/Controls.h>
-#include <vgui_controls/MenuItem.h>
-#include "vgui_controls/ColorPicker.h"
+#include <vgui_controls/menu.h>
+#include <vgui_controls/scrollbar.h>
+#include <vgui_controls/textentry.h>
+#include <vgui_controls/controls.h>
+#include <vgui_controls/menuitem.h>
+#include "vgui_controls/colorpicker.h"
 
 #include "vgui_editor_platform.h"
 

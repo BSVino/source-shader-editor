@@ -4,16 +4,16 @@
 //
 //=============================================================================
 #include "vgui_controls/KeyBoardEditorDialog.h"
-#include "vgui_controls/ListPanel.h"
-#include "vgui_controls/Button.h"
-#include "vgui_controls/TextEntry.h"
+#include "vgui_controls/listpanel.h"
+#include "vgui_controls/button.h"
+#include "vgui_controls/textentry.h"
 #include "vgui/ISurface.h"
 #include "vgui/IInput.h"
 #include "vgui/IVGui.h"
 #include "vgui/ILocalize.h"
 #include "KeyValues.h"
 #include "vgui/Cursor.h"
-#include "tier1/UtlDict.h"
+#include "tier1/utldict.h"
 
 using namespace vgui;
 

@@ -8,7 +8,7 @@
 
 #include <stdio.h>
 #include <assert.h>
-#include <UtlVector.h>
+#include <utlvector.h>
 #include <vstdlib/IKeyValuesSystem.h>
 
 #include <vgui/IBorder.h>
@@ -22,18 +22,18 @@
 #include <KeyValues.h>
 #include <vgui/MouseCode.h>
 
-#include <vgui_controls/Panel.h>
-#include <vgui_controls/BuildGroup.h>
-#include <vgui_controls/Tooltip.h>
-#include <vgui_controls/PHandle.h>
-#include <vgui_controls/Controls.h>
-#include "vgui_controls/Menu.h"
-#include "vgui_controls/MenuItem.h"
+#include <vgui_controls/panel.h>
+#include <vgui_controls/buildgroup.h>
+#include <vgui_controls/tooltip.h>
+#include <vgui_controls/phandle.h>
+#include <vgui_controls/controls.h>
+#include "vgui_controls/menu.h"
+#include "vgui_controls/menuitem.h"
 
-#include "UtlDict.h"
+#include "utldict.h"
 #include "UtlBuffer.h"
 #include "MemPool.h"
-#include "FileSystem.h"
+#include "filesystem.h"
 #include "tier0/icommandline.h"
 
 #include "tier0/vprof.h"

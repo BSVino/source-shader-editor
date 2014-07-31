@@ -8,7 +8,7 @@
 #include <vgui/IScheme.h>
 #include <vgui/Cursor.h>
 #include <vgui/iinput.h>
-#include <vgui_controls/Splitter.h>
+#include <vgui_controls/splitter.h>
 #include "tier1/keyvalues.h"
 #include <limits.h>
 

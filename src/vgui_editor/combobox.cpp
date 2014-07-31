@@ -15,11 +15,11 @@
 #include "vgui/IPanel.h"
 #include "KeyValues.h"
 
-#include "vgui_controls/Button.h"
-#include "vgui_controls/ComboBox.h"
-#include "vgui_controls/Menu.h"
-#include "vgui_controls/MenuItem.h"
-#include "vgui_controls/TextImage.h"
+#include "vgui_controls/button.h"
+#include "vgui_controls/combobox.h"
+#include "vgui_controls/menu.h"
+#include "vgui_controls/menuitem.h"
+#include "vgui_controls/textimage.h"
 
 #include <ctype.h>
 

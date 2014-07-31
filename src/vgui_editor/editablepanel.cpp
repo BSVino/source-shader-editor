@@ -13,28 +13,28 @@
 #include <KeyValues.h>
 #include "vgui/ivgui.h"
 
-#include <vgui_controls/BuildGroup.h>
-#include <vgui_controls/BuildModeDialog.h>
-#include <vgui_controls/EditablePanel.h>
+#include <vgui_controls/buildgroup.h>
+#include <vgui_controls/buildmodedialog.h>
+#include <vgui_controls/editablepanel.h>
 
 // these includes are all for the virtual contruction factory Dialog::CreateControlByName()
-#include <vgui_controls/Button.h>
-#include <vgui_controls/Label.h>
-#include <vgui_controls/CheckButton.h>
-#include <vgui_controls/ComboBox.h>
-#include <vgui_controls/Menu.h>
-#include <vgui_controls/MenuItem.h>
-#include <vgui_controls/MessageBox.h>
-#include <vgui_controls/ProgressBar.h>
-#include <vgui_controls/RadioButton.h>
-#include <vgui_controls/ScrollBar.h>
-#include <vgui_controls/ToggleButton.h>
-#include <vgui_controls/ImagePanel.h>
-#include <vgui_controls/AnimatingImagePanel.h>
-#include <vgui_controls/Divider.h>
-#include <vgui_controls/URLLabel.h>
-#include <vgui_controls/RichText.h>
-#include <vgui_controls/BitmapImagePanel.h>
+#include <vgui_controls/button.h>
+#include <vgui_controls/label.h>
+#include <vgui_controls/checkbutton.h>
+#include <vgui_controls/combobox.h>
+#include <vgui_controls/menu.h>
+#include <vgui_controls/menuitem.h>
+#include <vgui_controls/messagebox.h>
+#include <vgui_controls/progressbar.h>
+#include <vgui_controls/radiobutton.h>
+#include <vgui_controls/scrollbar.h>
+#include <vgui_controls/togglebutton.h>
+#include <vgui_controls/imagepanel.h>
+#include <vgui_controls/animatingimagepanel.h>
+#include <vgui_controls/divider.h>
+#include <vgui_controls/urllabel.h>
+#include <vgui_controls/richtext.h>
+#include <vgui_controls/bitmapimagepanel.h>
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include <tier0/memdbgon.h>

@@ -14,8 +14,8 @@
 
 #include "utlvector.h"
 #include "vgui/VGUI.h"
-#include "vgui_controls/Panel.h"
-#include "vgui_controls/PHandle.h"
+#include "vgui_controls/panel.h"
+#include "vgui_controls/phandle.h"
 
 namespace vgui
 {

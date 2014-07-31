@@ -13,8 +13,8 @@
 #endif
 
 #include <KeyValues.h>
-#include <vgui_controls/MessageBox.h>
-#include <vgui_controls/Button.h>
+#include <vgui_controls/messagebox.h>
+#include <vgui_controls/button.h>
 
 namespace vgui
 {

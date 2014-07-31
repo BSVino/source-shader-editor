@@ -12,8 +12,8 @@
 #pragma once
 #endif
 
-#include <vgui_controls/Panel.h>
-#include <UtlVector.h>
+#include <vgui_controls/panel.h>
+#include <utlvector.h>
 
 namespace vgui
 {

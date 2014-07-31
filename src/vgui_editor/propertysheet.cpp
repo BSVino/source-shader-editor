@@ -15,17 +15,17 @@
 #include <KeyValues.h>
 #include <vgui/MouseCode.h>
 #include <vgui/ISurface.h>
-#include <vgui_controls/Button.h>
-#include <vgui_controls/Controls.h>
-#include <vgui_controls/Label.h>
-#include <vgui_controls/PropertySheet.h>
-#include <vgui_controls/ComboBox.h>
-#include <vgui_controls/Panel.h>
-#include <vgui_controls/ToolWindow.h>
-#include <vgui_controls/TextImage.h>
-#include <vgui_controls/ImagePanel.h>
-#include <vgui_controls/PropertyPage.h>
-#include "vgui_controls/AnimationController.h"
+#include <vgui_controls/button.h>
+#include <vgui_controls/controls.h>
+#include <vgui_controls/label.h>
+#include <vgui_controls/propertysheet.h>
+#include <vgui_controls/combobox.h>
+#include <vgui_controls/panel.h>
+#include <vgui_controls/toolwindow.h>
+#include <vgui_controls/textimage.h>
+#include <vgui_controls/imagepanel.h>
+#include <vgui_controls/propertypage.h>
+#include "vgui_controls/animationcontroller.h"
 
 #include "vgui_editor_platform.h"
 

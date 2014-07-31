@@ -10,7 +10,7 @@
 #include <mathlib/vector4d.h>
 
 #include "vgui/ISurface.h"
-#include "vgui/IVgui.h"
+#include "vgui/IVGui.h"
 
 #include "vgui_controls/controls.h"
 #include "vgui_controls/tokenchannels.h"

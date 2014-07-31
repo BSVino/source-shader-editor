@@ -8,11 +8,11 @@
 #include <vgui/IVGui.h>
 #include <KeyValues.h>
 
-#include <vgui_controls/BuildGroup.h>
-#include <vgui_controls/Button.h>
-#include <vgui_controls/Controls.h>
-#include <vgui_controls/WizardPanel.h>
-#include <vgui_controls/WizardSubPanel.h>
+#include <vgui_controls/buildgroup.h>
+#include <vgui_controls/button.h>
+#include <vgui_controls/controls.h>
+#include <vgui_controls/wizardpanel.h>
+#include <vgui_controls/wizardsubpanel.h>
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include <tier0/memdbgon.h>

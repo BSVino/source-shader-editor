@@ -10,8 +10,8 @@
 
 #include <vgui/KeyCode.h>
 
-#include <vgui_controls/QueryBox.h>
-#include <vgui_controls/TextImage.h>
+#include <vgui_controls/querybox.h>
+#include <vgui_controls/textimage.h>
 
 #include "vgui_editor_platform.h"
 

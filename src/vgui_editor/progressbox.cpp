@@ -12,11 +12,11 @@
 #include <vgui/IVGui.h>
 #include <KeyValues.h>
 
-#include <vgui_controls/Button.h>
-#include <vgui_controls/Controls.h>
-#include <vgui_controls/Label.h>
-#include <vgui_controls/ProgressBar.h>
-#include <vgui_controls/ProgressBox.h>
+#include <vgui_controls/button.h>
+#include <vgui_controls/controls.h>
+#include <vgui_controls/label.h>
+#include <vgui_controls/progressbar.h>
+#include <vgui_controls/progressbox.h>
 
 #include <stdio.h>
 

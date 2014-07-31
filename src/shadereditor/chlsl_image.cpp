@@ -1,6 +1,6 @@
 
 #include "cbase.h"
-#include "editorCommon.h"
+#include "editorcommon.h"
 #include "view_shared.h"
 
 #include "vtf/vtf.h"

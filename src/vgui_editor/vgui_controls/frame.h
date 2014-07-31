@@ -14,9 +14,9 @@
 
 #include <vgui/VGUI.h>
 #include <vgui/Dar.h>
-#include <vgui_controls/Panel.h>
-#include <vgui_controls/EditablePanel.h>
-#include <vgui_controls/FocusNavGroup.h>
+#include <vgui_controls/panel.h>
+#include <vgui_controls/editablepanel.h>
+#include <vgui_controls/focusnavgroup.h>
 
 namespace vgui
 {

@@ -10,8 +10,8 @@
 #pragma once
 #endif
 
-#include <vgui_controls/EditablePanel.h>
-#include "UtlVector.h"
+#include <vgui_controls/editablepanel.h>
+#include "utlvector.h"
 
 namespace vgui
 {

@@ -21,11 +21,11 @@
 #include "collisionutils.h"
 #include "vgui_controls/animationcontroller.h"
 
-#include "editorCommon.h"
+#include "editorcommon.h"
 #include "vNodeView.h"
 #include "vSmartObject.h"
 #include "vSmartTooltip.h"
-#include "vSheets.h"
+#include "vsheets.h"
 
 //#include "memtrack.h"
 

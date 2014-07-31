@@ -1,8 +1,8 @@
 
 #include "cbase.h"
-#include "vSmartText.h"
+#include "vsmarttext.h"
 #include "vSmartObject.h"
-#include "vSmartObjectList.h"
+#include "vsmartobjectlist.h"
 #include "vSmartAutocomplete.h"
 #include "vSmartTooltip.h"
 #include "vgui_controls/menuitem.h"

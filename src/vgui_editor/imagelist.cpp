@@ -8,7 +8,7 @@
 #include <vgui/VGUI.h>
 #include <Color.h>
 
-#include <vgui_controls/ImageList.h>
+#include <vgui_controls/imagelist.h>
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include <tier0/memdbgon.h>

@@ -14,7 +14,7 @@
 
 
 #include "tier1\utlstring.h"
-#include "vgui_controls/Frame.h"
+#include "vgui_controls/frame.h"
 
 
 namespace vgui

@@ -10,14 +10,14 @@
 #include <vgui/ISystem.h>
 #include <vgui/IVGui.h>
 #include <KeyValues.h>
-#include <vgui_controls/AnimationController.h>
-#include "FileSystem.h"
-#include "FileSystem_Helpers.h"
+#include <vgui_controls/animationcontroller.h>
+#include "filesystem.h"
+#include "filesystem_helpers.h"
 
 #include <stdio.h>
 #include <math.h>
 #include "mempool.h"
-#include "UtlDict.h"
+#include "utldict.h"
 #include "mathlib/mathlib.h"
 #include "characterset.h"
 

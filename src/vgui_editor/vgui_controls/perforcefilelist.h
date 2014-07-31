@@ -14,7 +14,7 @@
 
 #include "tier1/utlstring.h"
 #include "tier1/utlstringmap.h"
-#include "vgui_controls/ListPanel.h"
+#include "vgui_controls/listpanel.h"
 
 
 //-----------------------------------------------------------------------------

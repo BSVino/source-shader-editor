@@ -22,6 +22,7 @@ ipch
 
 # OSX/Linux build products
 *.mak
+*.project
 *.mak.vpc_crc
 *.xcodeproj/
 obj*/

@@ -17,10 +17,10 @@
 
 #include <vgui/VGUI.h>
 #include <Color.h>
-#include <vgui_controls/Panel.h>
-#include <vgui_controls/Label.h>
-#include <vgui_controls/ListPanel.h>
-#include <vgui_controls/Button.h>
+#include <vgui_controls/panel.h>
+#include <vgui_controls/label.h>
+#include <vgui_controls/listpanel.h>
+#include <vgui_controls/button.h>
 
 #include <utlvector.h>
 

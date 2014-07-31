@@ -37,7 +37,7 @@ endif
 # CPPFLAGS == "c/c++ *preprocessor* flags" - not "cee-plus-plus flags"
 ARCH_FLAGS = 
 BUILDING_MULTI_ARCH = 0
-CPPFLAGS = $(DEFINES) $(addprefix -I, $(abspath $(INCLUDEDIRS) ))
+CPPFLAGS = $(DEFINES) $(addprefix -I, $(abspath $(INCLUDEDIRS) )) $(addprefix -I, $(realpath $(addprefix ../, $(INCLUDEDIRS)) )) $(addprefix -I, $(realpath $(addprefix ../../, $(INCLUDEDIRS)) ))
 CFLAGS = $(ARCH_FLAGS) $(CPPFLAGS) $(WARN_FLAGS) -fvisibility=$(SymbolVisibility) $(OptimizerLevel) -pipe $(GCC_ExtraCompilerFlags) -Usprintf -Ustrncpy -UPROTECTED_THINGS_ENABLE
 # In -std=gnu++0x mode we get lots of errors about "error: narrowing conversion". -fpermissive
 # turns these into warnings in gcc, and -Wno-c++11-narrowing suppresses them entirely in clang 3.1+.

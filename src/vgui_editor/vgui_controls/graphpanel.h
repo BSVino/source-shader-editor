@@ -10,9 +10,9 @@
 #pragma once
 #endif
 
-#include <vgui_controls/Panel.h>
+#include <vgui_controls/panel.h>
 #include "UtlLinkedList.h"
-#include "UtlVector.h"
+#include "utlvector.h"
 
 namespace vgui
 {

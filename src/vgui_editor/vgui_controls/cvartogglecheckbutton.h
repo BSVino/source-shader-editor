@@ -12,7 +12,7 @@
 #endif
 
 #include "vgui/VGUI.h"
-#include "vgui_controls/CheckButton.h"
+#include "vgui_controls/checkbutton.h"
 #include "tier1/utlstring.h"
 #include "tier1/KeyValues.h"
 namespace vgui

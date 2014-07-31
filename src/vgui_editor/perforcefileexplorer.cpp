@@ -11,7 +11,7 @@
 #include <vgui_controls/button.h>
 #include <vgui_controls/tooltip.h>
 #include "tier1/keyvalues.h"
-#include "vgui/isystem.h"
+#include "vgui/ISystem.h"
 #include "filesystem.h"
 #include <ctype.h>
 #include "p4lib/ip4.h"

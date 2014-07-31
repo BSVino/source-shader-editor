@@ -6,7 +6,7 @@
 //=============================================================================//
 
 #include <stdio.h>
-#include <UtlSymbol.h>
+#include <utlsymbol.h>
 
 #include <vgui/IBorder.h>
 #include <vgui/IInput.h>
@@ -18,8 +18,8 @@
 #include <vgui/KeyCode.h>
 #include <KeyValues.h>
 
-#include <vgui_controls/Button.h>
-#include <vgui_controls/FocusNavGroup.h>
+#include <vgui_controls/button.h>
+#include <vgui_controls/focusnavgroup.h>
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include <tier0/memdbgon.h>

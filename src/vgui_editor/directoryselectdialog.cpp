@@ -6,12 +6,12 @@
 
 #define PROTECTED_THINGS_DISABLE
 
-#include <vgui_controls/Button.h>
-#include <vgui_controls/ComboBox.h>
-#include <vgui_controls/DirectorySelectDialog.h>
-#include <vgui_controls/TreeView.h>
-#include <vgui_controls/ImageList.h>
-#include <vgui_controls/MessageBox.h>
+#include <vgui_controls/button.h>
+#include <vgui_controls/combobox.h>
+#include <vgui_controls/directoryselectdialog.h>
+#include <vgui_controls/treeview.h>
+#include <vgui_controls/imagelist.h>
+#include <vgui_controls/messagebox.h>
 #include <vgui/Cursor.h>
 #include <KeyValues.h>
 #include <vgui/IInput.h>

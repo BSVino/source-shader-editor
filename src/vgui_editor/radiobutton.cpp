@@ -16,11 +16,11 @@
 #include <vgui/KeyCode.h>
 #include <KeyValues.h>
 
-#include <vgui_controls/FocusNavGroup.h>
-#include <vgui_controls/Image.h>
-#include <vgui_controls/RadioButton.h>
-#include <vgui_controls/TextImage.h>
-#include <vgui_controls/Controls.h>
+#include <vgui_controls/focusnavgroup.h>
+#include <vgui_controls/image.h>
+#include <vgui_controls/radiobutton.h>
+#include <vgui_controls/textimage.h>
+#include <vgui_controls/controls.h>
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include <tier0/memdbgon.h>

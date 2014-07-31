@@ -13,7 +13,7 @@
 #include <vgui/IBorder.h>
 #include <KeyValues.h>
 
-#include <vgui_controls/ScalableImagePanel.h>
+#include <vgui_controls/scalableimagepanel.h>
 
 #include "vgui_editor_platform.h"
 

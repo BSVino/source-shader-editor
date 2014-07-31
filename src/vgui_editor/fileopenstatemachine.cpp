@@ -7,8 +7,8 @@
 
 #include "vgui_controls/fileopenstatemachine.h"
 #include "tier1/keyvalues.h"
-#include "vgui_controls/FileOpenDialog.h"
-#include "vgui_controls/MessageBox.h"
+#include "vgui_controls/fileopendialog.h"
+#include "vgui_controls/messagebox.h"
 #include "vgui_controls/perforcefilelistframe.h"
 #include "vgui_controls/savedocumentquery.h"
 #include "filesystem.h"

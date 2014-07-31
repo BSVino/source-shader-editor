@@ -15,8 +15,8 @@
 #include <vgui/MouseCode.h>
 #include <KeyValues.h>
 
-#include <vgui_controls/ScrollBarSlider.h>
-#include <vgui_controls/Controls.h>
+#include <vgui_controls/scrollbarslider.h>
+#include <vgui_controls/controls.h>
 
 #include <math.h>
 

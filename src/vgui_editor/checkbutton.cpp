@@ -12,9 +12,9 @@
 #include <vgui/IScheme.h>
 #include <KeyValues.h>
 
-#include <vgui_controls/Image.h>
-#include <vgui_controls/CheckButton.h>
-#include <vgui_controls/TextImage.h>
+#include <vgui_controls/image.h>
+#include <vgui_controls/checkbutton.h>
+#include <vgui_controls/textimage.h>
 
 // memdbgon must be the last include file in a .cpp file!!!
 #include <tier0/memdbgon.h>

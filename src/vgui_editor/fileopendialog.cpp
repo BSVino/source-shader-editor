@@ -26,20 +26,20 @@
 #include <vgui/ILocalize.h>
 #include <vgui/IInput.h>
 
-#include <vgui_controls/FileOpenDialog.h>
+#include <vgui_controls/fileopendialog.h>
 
-#include <vgui_controls/Button.h>
-#include <vgui_controls/ComboBox.h>
-#include <vgui_controls/ImagePanel.h>
-#include <vgui_controls/InputDialog.h>
-#include <vgui_controls/Label.h>
-#include <vgui_controls/ListPanel.h>
-#include <vgui_controls/TextEntry.h>
-#include <vgui_controls/ImageList.h>
-#include <vgui_controls/MenuItem.h>
-#include <vgui_controls/Tooltip.h>
-#include <vgui_controls/PromptSimple.h>
-#include <vgui_controls/CheckButton.h>
+#include <vgui_controls/button.h>
+#include <vgui_controls/combobox.h>
+#include <vgui_controls/imagepanel.h>
+#include <vgui_controls/inputdialog.h>
+#include <vgui_controls/label.h>
+#include <vgui_controls/listpanel.h>
+#include <vgui_controls/textentry.h>
+#include <vgui_controls/imagelist.h>
+#include <vgui_controls/menuitem.h>
+#include <vgui_controls/tooltip.h>
+#include <vgui_controls/promptsimple.h>
+#include <vgui_controls/checkbutton.h>
 
 #if defined( _X360 )
 #include "xbox/xbox_win32stubs.h"

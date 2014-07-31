@@ -9,8 +9,8 @@
 #include <math.h>
 #include <stdio.h>
 
-#include <vgui_controls/ProgressBar.h>
-#include <vgui_controls/Controls.h>
+#include <vgui_controls/progressbar.h>
+#include <vgui_controls/controls.h>
 
 #include <vgui/ILocalize.h>
 #include <vgui/IScheme.h>

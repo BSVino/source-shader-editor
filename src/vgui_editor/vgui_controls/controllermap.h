@@ -13,7 +13,7 @@
 
 #include "Panel.h"
 #include "UtlMap.h"
-#include "UtlSymbol.h"
+#include "utlsymbol.h"
 
 class CControllerMap : public vgui::Panel
 {

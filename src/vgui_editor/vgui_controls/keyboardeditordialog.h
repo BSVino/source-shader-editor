@@ -10,9 +10,9 @@
 #pragma once
 #endif
 
-#include "vgui_controls/Frame.h"
-#include "vgui_controls/PropertySheet.h"
-#include "vgui_controls/PropertyPage.h"
+#include "vgui_controls/frame.h"
+#include "vgui_controls/propertysheet.h"
+#include "vgui_controls/propertypage.h"
 
 class VControlsListPanel;
 

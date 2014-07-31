@@ -30,7 +30,6 @@ inline void swap( T& x, T& y )
 #endif
 
 #include <stdio.h>
-#include <stdlib.h>
 
 #include <tier0/platform.h>
 #include <tier0/dbg.h>
@@ -53,6 +52,6 @@ inline void swap( T& x, T& y )
 
 #include "igamesystem.h"
 
-#include "editorCommon.h"
+#include "editorcommon.h"
 
 #endif // CBASE_H

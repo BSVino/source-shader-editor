@@ -18,8 +18,8 @@
 #include <vgui/ILocalize.h>
 #include <KeyValues.h>
 
-#include <vgui_controls/TextImage.h>
-#include <vgui_controls/Controls.h>
+#include <vgui_controls/textimage.h>
+#include <vgui_controls/controls.h>
 
 #include "tier0/dbg.h"
 
