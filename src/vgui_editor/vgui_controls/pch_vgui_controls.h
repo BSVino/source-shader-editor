@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -51,7 +51,7 @@
 #include "vgui_controls/checkbuttonlist.h"
 #include "vgui_controls/combobox.h"
 #include "vgui_controls/controls.h"
-#include "vgui_controls/DialogManager.h"
+#include "vgui_controls/dialogmanager.h"
 #include "vgui_controls/directoryselectdialog.h"
 #include "vgui_controls/divider.h"
 #include "vgui_controls/editablepanel.h"
@@ -59,7 +59,7 @@
 #include "vgui_controls/focusnavgroup.h"
 #include "vgui_controls/frame.h"
 #include "vgui_controls/graphpanel.h"
-#include "vgui_controls/HTML.h"
+#include "vgui_controls/html.h"
 #include "vgui_controls/image.h"
 #include "vgui_controls/imagelist.h"
 #include "vgui_controls/imagepanel.h"
@@ -73,7 +73,7 @@
 #include "vgui_controls/messagebox.h"
 #include "vgui_controls/panel.h"
 #ifndef HL1
-#include "vgui_controls/PanelAnimationVar.h"
+#include "vgui_controls/panelanimationvar.h"
 #endif
 #include "vgui_controls/panellistpanel.h"
 #include "vgui_controls/phandle.h"
@@ -108,7 +108,7 @@
 #include "vgui_controls/wizardsubpanel.h"
 
 #ifndef HL1
-#include "vgui_controls/KeyBoardEditorDialog.h"
+#include "vgui_controls/keyboardeditordialog.h"
 #include "vgui_controls/inputdialog.h"
 #endif
 

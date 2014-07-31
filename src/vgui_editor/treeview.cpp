@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -26,10 +26,10 @@
 #include <vgui_controls/label.h>
 #include <vgui_controls/button.h>
 #include <vgui_controls/textimage.h>
-#include <vgui_controls/imagelist.h>
+#include <vgui_controls/imageLlist.h>
 #include <vgui_controls/imagepanel.h>
 
-#include "tier1/UtlString.h"
+#include "tier1/utlstring.h"
 
 #include "vgui_editor_platform.h"
 
@@ -779,7 +779,8 @@ int TreeNode::FindChild( TreeNode *pChild )
 {
 	if ( !m_pTreeView->m_pSortFunc )
 	{
-		for ( int i = 0; i < GetChildrenCount(); --i )
+		AssertMsg( 0, "This code has never been tested. Is it correct?" );
+		for ( int i = 0; i < GetChildrenCount(); ++i )
 		{
 			if ( m_Children[i] == pChild )
 				return i;

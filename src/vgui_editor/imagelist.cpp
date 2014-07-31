@@ -1,4 +1,4 @@
-//========= Copyright © 1996-2005, Valve Corporation, All rights reserved. ============//
+//========= Copyright Valve Corporation, All rights reserved. ============//
 //
 // Purpose: 
 //
@@ -27,26 +27,11 @@ public:
 	virtual void GetSize(int &wide, int &tall) { wide = 0; tall = 0; }
 	virtual void SetSize(int wide, int tall) {}
 	virtual void SetColor(Color col) {}
-
-	bool Evict()
-	{
-		return false;
-	}
-
-	int GetNumFrames()
-	{
-		return 0;
-	}
-
-	void SetFrame( int nFrame )
-	{
-	}
-
-	HTexture GetID()
-	{
-		return 0;
-	}
-	void SetRotation( int iRotation ){};
+	virtual bool Evict() { return false; }
+	virtual int GetNumFrames() { return 0; }
+	virtual void SetFrame( int nFrame ) {}
+	virtual HTexture GetID() { return 0; }
+	virtual void SetRotation( int iRotation ) { return; };
 };
 
 //-----------------------------------------------------------------------------

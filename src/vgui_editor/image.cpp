@@ -280,3 +280,21 @@ HTexture Image::GetID()
 	return 0;
 }
 
+bool Image::Evict()
+{
+	return false;
+}
+
+int Image::GetNumFrames()
+{
+	return 0;
+}
+
+void Image::SetFrame( int nFrame )
+{
+}
+
+HTexture Image::GetID()
+{
+	return 0;
+}
